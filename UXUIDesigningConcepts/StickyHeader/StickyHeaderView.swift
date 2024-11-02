@@ -28,7 +28,7 @@ struct StickyHeaderView: View {
 func imageView() -> some View {
     GeometryReader { geo in
         let minY = geo.frame(in: .global).minY
-        var isScrolling: Bool = minY > 0
+        let isScrolling: Bool = minY > 0
         VStack {
             Image(.picP)
                 .resizable()
