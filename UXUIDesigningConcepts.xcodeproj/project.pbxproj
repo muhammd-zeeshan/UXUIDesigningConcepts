@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E19D400F2CD3CC6C00447E3F /* UXUIDesigningConcepts */ = {
+		E1D900312CD426D20082741E /* UXUIDesigningConcepts */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = UXUIDesigningConcepts;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 		E19D40042CD3CC6C00447E3F = {
 			isa = PBXGroup;
 			children = (
-				E19D400F2CD3CC6C00447E3F /* UXUIDesigningConcepts */,
+				E1D900312CD426D20082741E /* UXUIDesigningConcepts */,
 				E19D400E2CD3CC6C00447E3F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E19D400F2CD3CC6C00447E3F /* UXUIDesigningConcepts */,
+				E1D900312CD426D20082741E /* UXUIDesigningConcepts */,
 			);
 			name = UXUIDesigningConcepts;
 			packageProductDependencies = (
